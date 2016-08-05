@@ -1,0 +1,2 @@
+C:\Users\Comprara Development\Source\Repos\Master-Repository\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\Dev\Code\GitHub\Code\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
